@@ -1,0 +1,2 @@
+Description of the gitflow model for Pavlo Blokhin:
+Instead of using a single master branch, this model uses two branches to record the history of a project. The master branch holds the official release history, while the develop branch serves as an integration branch for new features. The develop branch will contain the entire history of the project, while master contains a partial history.
